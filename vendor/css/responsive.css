@@ -1,0 +1,268 @@
+/* screen size 1496px */
+
+@media all and (max-width:1580px){
+	.menu ul{
+		display:none;
+		position: absolute;
+		top: 93px;
+		width: 50%;
+		right: 215px;
+		background:rgb(5,1,1);
+		z-index: 99;
+		text-align: center;
+		margin: 0 auto;
+		
+	}
+	.menu ul li{
+		padding:15px 0;
+	}
+}
+
+/* screen size 1102 */
+/* screen size 1102 */
+
+@media all and (max-width:1102px){
+	.middle{
+		width:90%;
+	}
+	/* service area */
+	.all-single{
+		flex-wrap:wrap;
+	}
+	.single_service{
+	  flex:0 0 100%;
+	  text-align:center;
+	  padding-bottom:70px;
+    }
+	.S_description h2 {
+       padding: 15px 0;
+    }
+	.S_description p {
+		width: 50%;
+		margin: 0 auto;
+   }
+}
+
+
+/* screen size 970px */
+/* screen size 970px */
+
+@media all and (max-width:970px){
+	.banner_all_text h1{
+		font-size:130.04px;
+	}
+}
+
+/* screen size 900px */
+/* screen size 900px */
+
+@media all and (max-width:900px){
+  .single_social ul{
+	flex-direction:column;
+  }
+}
+
+
+
+
+
+/* screen size 815px */
+/* screen size 815px */
+
+@media all and (max-width:815px){
+	.all-fun{
+	 
+	  flex-wrap:wrap;
+    }
+	.single-fun{
+		flex:0 0 50%;
+		padding-bottom:85px;
+	}
+   .F-description h3{
+	  padding:40px 0;
+   }
+	
+	
+}
+
+
+
+
+
+
+/* screen size 768px */
+/* screen size 768px */
+
+@media all and (max-width:768px){
+	.banner_all_text h1{
+		font-size:90.04px;
+		margin-bottom: 9px;
+	}
+	.banner_all_text p {
+		 width:68%;
+	}
+	.moral_text p{
+		width:94%;
+	}
+}
+
+/* screen size 680px */
+/* screen size 680px */
+
+@media all and (max-width:680px){
+	.portfolio_menu ul li{
+		padding:3px 15px;
+	}
+    .input_half {
+     flex: 0 0 100%;
+   }
+	
+}
+
+/* screen size 600px */
+/* screen size 600px */
+
+@media all and (max-width:600px){
+	.all_socail{
+	  flex-wrap:wrap;
+   }
+   .single_social{
+	flex:0 0 60%;
+	padding-bottom:29px;
+  }
+  .single_social ul li a{
+	color:#181a1f;
+	font-size:20px;
+	position:relative;
+	margin-top:14px;
+  }
+  .single_social ul li p{
+	margin-top:6px;
+  }
+}
+
+
+
+/* screen size 575px */
+/* screen size 575px */
+
+@media all and (max-width:575px){
+	.menu ul{
+		top: 118px;
+		right: 24px;
+		width:90%;
+	}
+	.menu ul li a{
+		padding:5px;
+	}
+	
+	.banner_all_text h1{
+		font-size:58.04px;
+		margin-bottom: 9px;
+	}
+	.banner_all_text p {
+		 width:93%;
+	}
+	.moral_text p{
+		width:100%;
+	}
+	
+	.S_description p {
+		width: 59%;
+		margin: 0 auto;
+   }
+   .single-fun{
+		flex:0 0 100%;
+		padding-bottom:85px;
+	}
+   .portfolio_head p{
+	   width:91%;
+   }
+   .portfolio_menu ul li{
+		padding:3px 15px;
+		margin:0 3px;
+	}
+	.client_head p{
+		font-size:18px;
+		width:86%;
+	}
+	.contact_head p{
+		font-size:18px;
+		width:85%;
+	}
+	
+	.contact_btn a{
+		padding:17px 102px;
+	}
+}
+
+
+/* screen size 480px */
+/* screen size 480px */
+
+@media all and (max-width:480px){
+	.menu ul{
+		top: 114px;
+		right: 48px;
+		width:67%;
+	}
+	.menu ul li a{
+		padding:5px;
+	}
+	
+	h2 {
+		font-size: 39px;
+		color: #ffdb00;
+   }
+	.banner_all_text h1{
+		font-size:37.04px;
+		margin-bottom: 9px;
+	}
+	.moral_text p{
+		width:100%;
+		font-size:15px;
+	}
+	
+	.S_description p {
+		width: 91%;
+		margin: 0 auto;
+   }
+   .S_btn a {
+     padding: 21px 42px;
+   }
+   .portfolio_head p{
+	   width:103%;
+	   font-size:17px;
+   }
+   .portfolio_menu ul{
+	   flex-wrap:wrap;
+   }
+   .portfolio_menu ul li{
+	   margin-top:15px;
+   }
+   
+   
+   .client_head p{
+		font-size:15px;
+		width:104%;
+	}
+	
+	.contact_head p{
+		font-size:15px;
+		width:104%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
